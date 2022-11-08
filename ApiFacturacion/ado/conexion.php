@@ -3,7 +3,7 @@
 try {
     $manejador = 'mysql';
     $servidor = 'localhost';
-    $base = 'cpe33';
+    $base = 'facturacion_electronica';
     $usuario = 'root';
     $pass = '';
 
